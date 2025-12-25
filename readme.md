@@ -24,13 +24,12 @@ How to Run
 	1.	Make sure you have a C++ compiler installed (like g++).
 	2.	Save the code in a file named, for example:
 calculator.cpp
-	3.	Compile the program:
-  g++ calculator.cpp -o calculator
-  ./calculator
-  Enter first number: 10
+3.	Compile the program:g++ calculator.cpp -o calculator
+4.	Run the program:./calculator
+Example Input Enter first number: 10
 Enter operator (+, -, *, /): *
 Enter second number: 5
-Result: 50
+Example Output Result: 50
 Code Explanation
 	•	num1 and num2 store the numbers entered by the user
 	•	op stores the operator
@@ -43,5 +42,4 @@ Requirements
 
 Author
 
-Your Name
-Khalfanjamil
+Your Name:Khalfanjamil
